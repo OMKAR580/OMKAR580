@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **omkardubey165@gmail.com**
 
-- ⚡ Fun fact **i am guitarist 🎸**
+- ⚡ Fun fact: **I am guitarist 🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
