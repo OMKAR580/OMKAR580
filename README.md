@@ -52,9 +52,9 @@
 <!-- RECENT_REPOS_START -->
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |:-----------|:---------------|:--------|
-| [AI-Driven-Gift-Recommender](https://github.com/OMKAR580/AI-Driven-Gift-Recommender) | AI powered gift recommendation engine | ⚡ `JavaScript` |
-| [Driftx-platform](https://github.com/OMKAR580/Driftx-platform) | Full-stack platform built with TypeScript | 💙 `TypeScript` |
-| [Chatbot-AICES](https://github.com/OMKAR580/Chatbot-AICES) | AI chatbot for AICES | 🐍 `Python` |
+| [Striver-A2Z-DSA](https://github.com/OMKAR580/Striver-A2Z-DSA) | Building something awesome... | ⚡ `JavaScript` |
+| [SalarySense-AI](https://github.com/OMKAR580/SalarySense-AI) | alarySense AI is an enterprise-grade AI-powered salary pre... | 💙 `TypeScript` |
+| [Portfolio](https://github.com/OMKAR580/Portfolio) | Building something awesome... | 💙 `TypeScript` |
 <!-- RECENT_REPOS_END -->
 
 ---
