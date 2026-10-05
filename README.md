@@ -52,9 +52,9 @@
 <!-- RECENT_REPOS_START -->
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |:-----------|:---------------|:--------|
+| [Syncora](https://github.com/OMKAR580/Syncora) | Building something awesome... | ⚡ `JavaScript` |
 | [Striver-A2Z-DSA](https://github.com/OMKAR580/Striver-A2Z-DSA) | Building something awesome... | ⚡ `JavaScript` |
 | [SalarySense-AI](https://github.com/OMKAR580/SalarySense-AI) | alarySense AI is an enterprise-grade AI-powered salary pre... | 💙 `TypeScript` |
-| [Portfolio](https://github.com/OMKAR580/Portfolio) | Building something awesome... | 💙 `TypeScript` |
 <!-- RECENT_REPOS_END -->
 
 ---
