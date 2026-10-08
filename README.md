@@ -53,8 +53,8 @@
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |:-----------|:---------------|:--------|
 | [Multi-Class-Vehicle-Localization-and-Automatic-License-Plate-Recognition-ALPR-](https://github.com/OMKAR580/Multi-Class-Vehicle-Localization-and-Automatic-License-Plate-Recognition-ALPR-) | VisionPlate AI is an intelligent traffic monitoring and AL... | 🐍 `Python` |
-| [Syncora](https://github.com/OMKAR580/Syncora) | Building something awesome... | ⚡ `JavaScript` |
 | [Striver-A2Z-DSA](https://github.com/OMKAR580/Striver-A2Z-DSA) | Building something awesome... | ⚡ `JavaScript` |
+| [Syncora](https://github.com/OMKAR580/Syncora) | Building something awesome... | ⚡ `JavaScript` |
 <!-- RECENT_REPOS_END -->
 
 ---
