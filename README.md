@@ -52,9 +52,9 @@
 <!-- RECENT_REPOS_START -->
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |:-----------|:---------------|:--------|
+| [Documind](https://github.com/OMKAR580/Documind) | AI-powered multimodal document intelligence platform | 🐍 `Python` |
 | [Striver-A2Z-DSA](https://github.com/OMKAR580/Striver-A2Z-DSA) | Building something awesome... | ⚡ `JavaScript` |
 | [Multi-Class-Vehicle-Localization-and-Automatic-License-Plate-Recognition-ALPR-](https://github.com/OMKAR580/Multi-Class-Vehicle-Localization-and-Automatic-License-Plate-Recognition-ALPR-) | VisionPlate AI is an intelligent traffic monitoring and AL... | 🐍 `Python` |
-| [Syncora](https://github.com/OMKAR580/Syncora) | Building something awesome... | ⚡ `JavaScript` |
 <!-- RECENT_REPOS_END -->
 
 ---
